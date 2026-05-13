@@ -97,6 +97,12 @@ h1 span {
     border-color: #a855f7;
 }
 
+.pdf-btn {
+    background: linear-gradient(to right, #3b82f6, #9333ea);
+    border: none;
+    cursor: pointer;
+}
+
 .circle {
     width: 320px;
     height: 320px;
